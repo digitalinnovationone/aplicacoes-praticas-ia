@@ -6,6 +6,8 @@ Vamos começar entendendo o que são os **Grandes Modelos de Linguagem (LLMs)** 
 
 E para tirar o máximo proveito desses modelos, entra o conceito de **Prompt Engineering**. Sabe quando você faz uma pergunta para alguém e a resposta não é bem o que você esperava? Com a IA é igual! **Prompt Engineering é a arte de fazer perguntas eficazes** para a IA. É a forma como você escreve seu "prompt" – sua instrução ou pergunta – que vai determinar a qualidade e a precisão da resposta da IA. Uma pequena mudança na sua pergunta pode gerar uma resposta completamente diferente e muito mais útil. É como guiar a IA para o caminho certo.
 
+### Prática (Hands-On)
+
 Agora, vamos à prática, aplicando o aprendizado em seu **projeto de viagem**!
 
 **Atividade:** Com base na lista de aspectos do seu destino de viagem que você criou na Aula 2, você vai usar uma ferramenta de IA generativa. Pode ser o **Microsoft Copilot** (que é gratuito e geralmente acessível), ou o ChatGPT, Google Gemini, ou qualquer outra que você tenha acesso.

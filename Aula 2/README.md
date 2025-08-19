@@ -8,6 +8,8 @@ Com a IA, o processo é muito parecido. É assim que ela **aprende com dados**. 
 
 É importante lembrar que a IA **não raciocina como um ser humano**. Ela não tem emoções ou intuição. A IA "chega" a uma resposta usando **padrões e probabilidade**. Ela analisa a enorme quantidade de dados que aprendeu e, com base nisso, calcula a resposta mais provável para uma dada situação. Por exemplo, se ela "viu" muitos e-mails com certas características que eram spam, ela vai classificar um novo e-mail com características semelhantes como spam, com uma alta probabilidade. É uma **lógica matemática**, não um pensamento humano.
 
+### Prática (Hands-On)
+
 Agora, vamos à nossa **primeira parte prática** do projeto "Meu Assistente de Planejamento de Viagens Pessoal"!
 
 **Atividade:** Para começar, pense em um **destino de viagem** que você gostaria muito de planejar. Pode ser uma cidade no Brasil, um país no exterior, ou até um roteiro mais exótico. Depois, em um documento de texto simples (pode ser o Bloco de Notas, Word ou Google Docs), liste os **principais aspectos que você precisa planejar** para essa viagem. Pense em coisas como:

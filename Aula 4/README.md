@@ -13,6 +13,8 @@ Agora, vamos falar do **lado sombrio da IA**, os desafios e limitações que enc
 
 Para mitigar esses riscos e garantir que a IA se comporte de forma segura e ética, existem as **Salvaguardas**, também chamadas de **Guardrails**. Pense nelas como **cercas de proteção** ou regras que são programadas na IA para que ela não gere conteúdo inadequado, ofensivo, ou que seja tendencioso. Elas são mecanismos de segurança que visam guiar o comportamento da IA.
 
+### Prática (Hands-On)
+
 Vamos à nossa prática!
 
 **Atividade:** Agora que você gerou sugestões de itinerário com a IA na aula anterior, é hora de **analisar criticamente essas respostas**. Usando o conhecimento sobre **viés e alucinação**, avalie as sugestões que a IA deu para o seu projeto de viagem.

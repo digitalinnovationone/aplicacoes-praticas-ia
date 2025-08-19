@@ -6,6 +6,8 @@ O que esperar da IA? Uma das grandes discussões é sobre a **IA Geral (AGI)** e
 
 Outra distinção importante é entre **Automação** e **Agentes Autônomos**. A **automação** geralmente se refere a tarefas simples e repetitivas, onde um robô ou sistema faz a mesma coisa sempre, seguindo instruções fixas. Pense em uma máquina em uma linha de montagem. Já os **agentes autônomos** são algo a mais: eles podem **tomar decisões e agir de forma independente em ambientes complexos**, sem supervisão constante. Eles usam IA para perceber o ambiente, planejar e executar ações para alcançar objetivos. Pense em um carro autônomo, que precisa reagir a situações imprevistas no trânsito. Essa é a fronteira para onde a IA está caminhando.
 
+### Prática (Hands-On)
+
 E agora, a melhor parte: vamos dar os toques finais no seu **projeto de viagem**!
 
 **Atividade:** Você reuniu informações da IA, analisou criticamente, refinou seus prompts... Agora é a hora de **compilar tudo**! Use as respostas que obteve da IA, mas de forma **crítica e complementar**. Não copie e cole!
